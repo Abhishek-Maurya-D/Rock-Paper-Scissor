@@ -8,4 +8,6 @@ A simple and fun Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 > Responsive UI with clickable choices (rock, paper, scissors)  
 > Random computer move generation  
 > Real-time score tracking for both player and computer  
-> Dynamic result message (Win, Lose, Draw) with color feedback  
+> Dynamic result message (Win, Lose, Draw) with color feedback
+
+![Screenshot (801)](https://github.com/user-attachments/assets/34f3f3b2-e830-4a5c-ae5d-187392e8289a)
